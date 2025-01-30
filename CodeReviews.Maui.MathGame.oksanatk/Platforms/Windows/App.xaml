@@ -1,0 +1,9 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="CodeReviews.Maui.MathGame.oksanatk.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:CodeReviews.Maui.MathGame.oksanatk.WinUI">
+
+</maui:MauiWinUIApplication>
+
